@@ -1,6 +1,6 @@
 # Stats
 
-A Webapp i made to help me cheat on my math test.
+A web app i made to help me cheat on my math test.
 
 ## [Live Preview](https://stats-three.vercel.app/)
 
