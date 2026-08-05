@@ -1,4 +1,4 @@
-# Stats
+# Stats Exam
 
 A web app i made to help me cheat on my math exam.
 
